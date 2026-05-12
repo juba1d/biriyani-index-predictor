@@ -14,5 +14,5 @@ Standard inflation models are boring. The **Biryani Index** is a real-world refl
 1. `python src/generator.py` - Creates the simulated bazaar data.
 2. `python src/model.py` - Trains the forecaster.
 
-## "Sleeper" Insights
+## Foodie Insights
 This project demonstrates my ability to handle **Exogenous Features**. In forecasting, knowing *when* it's a holiday is often more important than the historical price itself.
